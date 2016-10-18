@@ -1,0 +1,62 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+/*
+Colours:
+Primary Background: EEEEEE
+Secondary Background: A7CCED
+Primary Text: 545E75
+Secondary Text: 6EB5B1
+Miscellaneous: 63ADF2
+*/
+html {
+	font-family: Roboto, Helvetica, sans-serif;
+	color: #545E75;
+	background-color: #eeeeee;
+}
+a {
+	color: #6EB5B1;
+}
+a:hover {
+	color: #63ADF2;
+}
+a:visited {
+	color: #63ADF2;
+}
+p {
+	
+}
+.active {
+    background-color: #63ADF2;
+}
+.nb {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A7CCED;
+}
+
+.nbi {
+    float: left;
+}
+
+.nbil {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	color: #545E75;
+}
+
+.nbil:hover {
+    background-color: #63ADF2;
+	color: #545E75;
+}
+
+.active:hover{
+	background-color: #63ADF2;
+	color: #545E75;
+	}
+	
+.nbil:visited {
+	color: #545E75
+}
