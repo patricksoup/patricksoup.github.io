@@ -15,10 +15,10 @@ html {
 a {
 	color: #6EB5B1;
 }
-a:hover {
-	color: #63ADF2;
-}
 a:visited {
+	color: #0b4f8e;
+}
+a:hover {
 	color: #63ADF2;
 }
 p {
